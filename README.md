@@ -37,4 +37,10 @@
 **SEP**  
 **Calculus**  
 
+# Hobbies
+*Drawing*  
+*Making music*  
+*Playing video games*  
+*Searching for something to learn*  
+*Researching for information and gaining knowlege about the world around us(Usually random science things)*  
 
