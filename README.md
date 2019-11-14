@@ -27,4 +27,14 @@
 1. LUNCH
 1. ENGLISH
 1. PHYSICS
-1. SPANISH
+1. SPANISH   
+
+-------------------------------------------------------------------------------------------------------------------------  
+
+# Favorite Subjects
+**Physics**  
+**Chemistry**  
+**SEP**  
+**Calculus**  
+
+
