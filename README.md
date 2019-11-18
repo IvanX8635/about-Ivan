@@ -3,23 +3,19 @@
 
 
 
-## IvanX@hstat.org 
+## _Email_ :IvanX@hstat.org 
 
 
 
 
 
-### *School: HSTAT*
+### *School: HSTAT*          
+
+*I like STEM as my pursued profession, STEM is the things I aspire to persue.*
 
 
 
-
-
- *I like STEM as my pursued profession, STEM is the things I aspire to persue.*
-
-
-
-*School Schedule:*
+*School Schedule:*   
 1. GYM
 1. SEP
 1. AP USH
